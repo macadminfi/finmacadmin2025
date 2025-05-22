@@ -6,5 +6,5 @@ The materials are divided per presentation and the copyright/license is per pres
 
 ## Presentation links
 
-* [Janne Lehikoinen - Elisa Mac Device Management](https://github.com/macadminfi/finmacadmin2025/blob/main/FinMacAdmin%202025%20-%20ElisaMacDeviceManagement.pdf)
-* Petri Riihikallio - WiFi
+* [Janne Lehikoinen - Elisa Mac Device Management](https://github.com/macadminfi/finmacadmin2025/blob/main/FinMacAdmin%202025%20-%20Elisa%20Mac%20Device%20Management.pdf)
+* [Petri Riihikallio - WiFi Enterprise Security](https://github.com/macadminfi/finmacadmin2025/blob/main/FinMacAdmin%202025%20-%20WiFi%20Enterprise%20Security.pdf)
